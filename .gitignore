@@ -1,1 +1,26 @@
-.vscode
+# Compiled C/C++ programs
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+
+# Debug files
+*.pdb
+*.ilk
+
+# Executable without extension (common on Linux)
+a.out
+
+# VS Code workspace settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
